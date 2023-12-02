@@ -1,0 +1,41 @@
+body {
+
+    font-family: 'Courier New', monospace;
+    height: 70%;
+  color: blue;
+
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: transparent;
+    }
+   
+    li {
+      float: center;
+      display: inline;
+    }
+   
+    li a {
+      display: inline-block;
+      color: blue;
+      font-weight: bold;
+      font-size: 25px;
+      text-align: center;
+      padding: 20px 40px;
+      text-decoration: none;
+    }
+    li a:hover {
+      background-color: #A8E2FF;
+    }
+    footer {
+      text-align: center;
+      padding: 3px;
+      background-color: #AFEEEE;
+      color: blue;
+    }
